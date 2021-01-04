@@ -11,3 +11,6 @@ This tableau shows the sales situation of top 4 superstores in each states, whic
 - The specific location distributuion of these superstores on the map 
 - The loss leader and the profit leader tables
 - The scatter graph to show the relevant factors causing the sales of superstores
+
+## 3. ELA Gender
+This tableau shows the gender difference between the ELA (English Learning Art) Test scores among 7 years (2005-2012).
